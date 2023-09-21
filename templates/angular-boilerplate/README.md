@@ -72,6 +72,11 @@ Environments for use in the action workflow:
 
 Now your project is ready to work with a continuous deployment workflow, updating instantly any changes in the application or the repository. 
 
+## Management
+
+Considering that this initial setup may not be optimal for your specific edge application, all settings can be customized any time you need by using [Azion Real-Time Manager (RTM)](https://manager.azion.com/).
+
+To manage and edit your edge application’s settings, read the documentation about [managing edge applications](https://www.azion.com/en/documentation/products/edge-application/first-steps/) for more details.
 ### Adding a custom domain
 
 The edge application created during the deployment has an assigned Azion domain to make it accessible through the browser. The domain has the following format: `xxxxxxxxxx.map.azionedge.net`. However, you can add a custom domain for users to access your edge application through it. Go to [Domains](https://www.azion.com/en/documentation/products/edge-application/domains/) documentation to read more about it.
